@@ -14,7 +14,7 @@ Features
   
 * Includes a comprehensive testbench for validation.
  
-*Designed for FPGA boards with Vivado support.
+* Designed for FPGA boards with Vivado support.
 
 Requirements
 
