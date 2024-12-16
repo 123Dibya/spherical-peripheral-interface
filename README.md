@@ -6,11 +6,15 @@ The Spherical Peripheral Interface is a hardware design project implemented usin
 
 Features
 
-Implements a spherical interface for data processing.
-Optimized for real-time signal transmission.
-Fully customizable and scalable.
-Includes a comprehensive testbench for validation.
-Designed for FPGA boards with Vivado support.
+* Implements a spherical interface for data processing.
+  
+* Optimized for real-time signal transmission.
+  
+* Fully customizable and scalable
+  
+* Includes a comprehensive testbench for validation.
+ 
+*Designed for FPGA boards with Vivado support.
 
 Requirements
 
